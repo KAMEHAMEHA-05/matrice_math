@@ -4,16 +4,16 @@
 # In[ ]:
 
 
-from matrix_math import add
-from matrix_math import subtract
-from matrix_math import scalar_mult
-from matrix_math import matrix_mult
-from matrix_math import minor
-from matrix_math import transpose
-from matrix_math import cofactor
-from matrix_math import minor_mat
-from matrix_math import cofactor_mat
-from matrix_math import adjoint
-from matrix_math import determinant
-from matrix_math import inverse_mat
+from matrices_math import add
+from matrices_math import subtract
+from matrices_math import scalar_mult
+from matrices_math import matrix_mult
+from matrices_math import minor
+from matrices_math import transpose
+from matrices_math import cofactor
+from matrices_math import minor_mat
+from matrices_math import cofactor_mat
+from matrices_math import adjoint
+from matrices_math import determinant
+from matrices_math import inverse_mat
 
