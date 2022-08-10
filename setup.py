@@ -8,8 +8,8 @@ Created on Sat Aug  6 09:58:20 2022
 
 from distutils.core import setup
 setup(
-  name = 'matrices',         # How you named your package folder (MyLib)
-  packages = ['matrices'],   # Chose the same as "name"
+  name = 'matrice_math',         # How you named your package folder (MyLib)
+  packages = ['matrice_math'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Matrices is package that can be used for matrix and determinant computing with Python',   # Give a short description about your library
@@ -24,7 +24,7 @@ setup(
     'Intended Audience :: Developers',      # Define that your audience are developers
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',   # Again, pick a license
-    'Programming Language :: Python :: 3',      #Specify which pyhton versions that you want to support
+    'Programming Language :: Python word :: 3',      #Specify which pyhton versions that you want to support
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
