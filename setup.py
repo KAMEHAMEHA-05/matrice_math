@@ -13,6 +13,7 @@ setup(
   version = '1.1.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Matrice_math is package that can be used for matrix and determinant computing with Python',   # Give a short description about your library
+  readme = 'README.md',
   author = 'Ishaan Sawant',                   # Type in your name
   author_email = 'imsawant05@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
