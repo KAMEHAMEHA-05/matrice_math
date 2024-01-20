@@ -1,6 +1,6 @@
 ## PYTHON PACKAGE : MATRIX_MATH
 ****
-Matrix_math is a package that can be used to perform basic computing processes on any sort of matrix or determinant, which include addition, subtraction, multiplication(matrix and scalar), as well as calculating the minor, cofactor, adjoint, determinant and inverse of a given matrix
+The Matrix_math package facilitates fundamental mathematical operations on matrices and determinants. It supports a range of operations, such as addition, subtraction, multiplication (both matrix and scalar), and provides functionalities for computing the minor, cofactor, adjoint, determinant, and inverse of a given matrix
 
 #### INSTALLATION
 Installation can be done in the following 3 methods :
@@ -64,9 +64,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 *******
-
-**_HAVE FUN USING matrix_math. I AM SURE YOU WILL CREATE A NOTEWORTHY SOFTWARE WITH THIS_**
-
 
 ```python
 
