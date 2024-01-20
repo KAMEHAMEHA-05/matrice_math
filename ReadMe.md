@@ -1,6 +1,6 @@
-## PYTHON PACKAGE : MATRIX_MATH
+## PYTHON PACKAGE : MATRICE_MATH
 ****
-The Matrix_math package facilitates fundamental mathematical operations on matrices and determinants. It supports a range of operations, such as addition, subtraction, multiplication (both matrix and scalar), and provides functionalities for computing the minor, cofactor, adjoint, determinant, and inverse of a given matrix
+The Matrice_math package facilitates fundamental mathematical operations on matrices and determinants. It supports a range of operations, such as addition, subtraction, multiplication (both matrix and scalar), and provides functionalities for computing the minor, cofactor, adjoint, determinant, and inverse of a given matrix
 
 #### INSTALLATION
 Installation can be done in the following 3 methods :
@@ -18,29 +18,29 @@ _**If you are using method 2 or method 3, paste the installed repository in your
 This package contains the following functions which can be used after importing by `import matrix_math` :
 
 1. Addition of two matrices :
-    * `matrix_math.add(matrix_1, matrix_2)`
+    * `matrice_math.add(matrix_1, matrix_2)`
 2. Subtraction of two matrices :
-    * `matrix_math.subtract(matrix_1, matrix_2)`
+    * `matrice_math.subtract(matrix_1, matrix_2)`
 3. Muliplication of two matrices :
-    * `matrix_math.matrix_mult(matrix_1, matrix_2)`
+    * `matrice_math.matrix_mult(matrix_1, matrix_2)`
 4. Scalar multiplication :
-    * `matrix_math.scalar_mult(number, matrix)`
+    * `matrice_math.scalar_mult(number, matrix)`
 5. Minor of a certain index in a matrix :
-    * `matrix_math.minor(matrix, (i,j))`
+    * `matrice_math.minor(matrix, (i,j))`
 6. Cofactor of a certain index in a matrix :
-    * `matrix_math.cofactor(matrix, (i,j))`
+    * `matrice_math.cofactor(matrix, (i,j))`
 7. Minor matrix of a given matrix :
-    * `matrix_math.minor_mat(matrix)`
+    * `matrice_math.minor_mat(matrix)`
 8. Cofactor matrix of a given matrix :
-    * `matrix_math.cofactor_mat(matrix)`
+    * `matrice_math.cofactor_mat(matrix)`
 9. Transpose of a given matrix :
-    * `matrix_math.transpose(matrix)`
+    * `matrice_math.transpose(matrix)`
 10. Adjoin of a given matrix :
-    * `matrix_math.adjoint(matrix)`
+    * `matrice_math.adjoint(matrix)`
 11. Determinant of a given matrix :
-    * `matrix_math.determinant(matrix)`
+    * `matrice_math.determinant(matrix)`
 12. Inverse of a given matrix :
-    * `matrix_math.inverse(matrix)`
+    * `matrice_math.inverse(matrix)`
     
 #### LICENSE
 
